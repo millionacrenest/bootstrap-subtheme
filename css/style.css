@@ -1,0 +1,36 @@
+.calendar {
+  padding: 20px;
+  height: 500px;
+}
+
+.map {
+  padding: 10px;
+}
+
+.homepage-grid {
+    position: relative;
+    text-align: center;
+    color: black;
+    padding: 10 px;
+}
+
+.homepage-grid img {
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+
+}
+
+
+.homepage-grid h3 {
+    position: absolute;
+    background-color: white;
+    opacity: 0.9;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo > img {
+    width: 100px;
+}
